@@ -1,2 +1,2 @@
 # HandGestureCar
-This car project integrates gesture recognition with obstacle avoidance that provides an interactive response.
+This project demonstrates an innovative piece of technology that allows the car to be controlled through hand gestures. It uses a transmitter that sends direction commands based on specific gestures to a car, leading to a movement of a servo motor. The ultrasonic sensor mounts on the servo attached to the car to track obstacles in its path. Once the car detects the obstacle, the vehicle stops without causing a collision. Then either the obstacle can be removed or changed if another direction is given to travel in. This car project integrates gesture recognition with obstacle avoidance that provides an interactive response.
